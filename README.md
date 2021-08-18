@@ -21,7 +21,7 @@ largestRectangle.py : Draw largest rectangle possible from a list of building he
 
 ## Stack, Queue
 
-QueueUsingTwoStacks.py : implement a queue using two stacks, and do push, pop, seek operations on the stack.
+QueueUsingTwoStacks.py : Implement a queue using two stacks, and do push, pop, seek operations on the stack.
 
 matchingBracket.py : Check if the input string contains matching brackets.
 
