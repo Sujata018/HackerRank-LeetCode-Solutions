@@ -3,9 +3,9 @@ Solutions to problems from HackerRank.
 
 <table>
   <tr>
-    <th>Topic</th>
-    <th>Program name</th>
-    <th>Description</th>
+    <th align="left">Topic</th>
+    <th align="left">Program name</th>
+    <th align="left">Description</th>
   </tr>
   <tr>
     <td>Array</td>
