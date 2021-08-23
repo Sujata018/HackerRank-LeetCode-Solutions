@@ -52,12 +52,13 @@ Solutions to problems from HackerRank.
 
 </table>
  
-# HackerRank-Solutions
-Solutions to problems from HackerRank.
+# LeetCode-Solutions
+Solutions to problems from LeetCode.
 
-<table>
+<table style="float: right">
   <tr>
     <th align="left">Topic</th>
     <th align="left">Program name</th>
     <th align="left">Description</th>
   </tr>
+ </table>
