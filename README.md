@@ -1,7 +1,7 @@
 # HackerRank-Solutions
 Solutions to problems from HackerRank.
 
-<table>
+<table style="float: left">
   <tr>
     <th align="left">Topic</th>
     <th align="left">Program name</th>
@@ -52,3 +52,12 @@ Solutions to problems from HackerRank.
 
 </table>
  
+# HackerRank-Solutions
+Solutions to problems from HackerRank.
+
+<table>
+  <tr>
+    <th align="left">Topic</th>
+    <th align="left">Program name</th>
+    <th align="left">Description</th>
+  </tr>
