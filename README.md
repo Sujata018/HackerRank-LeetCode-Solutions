@@ -63,7 +63,7 @@ Solutions to problems from LeetCode.
   </tr>
   <tr>
     <td>Array</td>
-    <td></td>
-    <td></td>
+    <td>setMatrixZeros.py</td>
+    <td>Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's, in place.</td>
   </tr>
  </table>
