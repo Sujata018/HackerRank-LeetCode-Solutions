@@ -64,6 +64,6 @@ Solutions to problems from LeetCode.
   <tr>
     <td>Array</td>
     <td>setMatrixZeros.py</td>
-    <td>Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's, in place.</td>
+    <td>Given an m x n integer matrix, if an element is 0, set its entire row and column to 0's, in place.</td>
   </tr>
  </table>
