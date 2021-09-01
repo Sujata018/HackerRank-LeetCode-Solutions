@@ -13,6 +13,11 @@ Solutions to problems from HackerRank.
     <td>Minimize count of divisions to obtain at least t equal array elements</td>
   </tr>
   <tr>
+    <td>Dynamic programming</td>
+    <td>maxArraySum.py</td>
+    <td>Given an array of integers, find the subset of non-adjacent elements with the maximum sum. Calculate
+        the sum of that subset.</td>
+  <tr>
     <td>Heap</td>
     <td>QHEAP1.py</td>
     <td>Implement a min-heap with insert, delete, print functionalities</td>
