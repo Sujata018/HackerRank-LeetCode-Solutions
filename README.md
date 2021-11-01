@@ -67,8 +67,17 @@ Solutions to problems from LeetCode.
     <th align="left">Description</th>
   </tr>
   <tr>
-    <td>Array</td>
+    <td rowspan="3">Array</td>
     <td>setMatrixZeros.py</td>
     <td>Given an m x n integer matrix, if an element is 0, set its entire row and column to 0's, in place.</td>
   </tr>
+    <tr>
+    <td>TwoSum.py</td>
+    <td>Given an integer array and a target sum, print the indices of a pair of integers that sum to the target.</td>
+  </tr>
+  <tr>
+    <td>RobotBounded.py</td>
+    <td>Given a sequence directions of unit movements for a robot, in the input, determine if the robot will stay within a bounded circle, if it repeats the movements indefinitely.</td>
+  </tr>
+
  </table>
