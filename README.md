@@ -54,7 +54,12 @@ Solutions to problems from HackerRank.
     <td>treeInsert.py</td>
     <td>Binary Search Tree : Insertion</td>
   </tr>
-
+  <tr>
+    <td>Trie</td>
+    <td>maximumXOR.py</td>
+    <td>Maximum Xor: Given an array of integers and a list of integer queries, find the list of maximum XORs between the arrays for each query.</td>
+  </tr>
+  
 </table>
  
 # LeetCode-Solutions
